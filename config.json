@@ -1,0 +1,27 @@
+{
+  "dashboard": "http://localhost:5173",
+  "freeVIP": {
+    "until": 1735750800000,
+    "title": {
+      "vi": "Tặng VIP<br/>Mừng Năm Mới 2025 🧧🎇🥳",
+      "en": "Free VIP<br/>Happy New Year 2025 🧧🎇🥳"
+    },
+    "text": {
+      "en": "VIP will be unlocked for FREE until end of day 10/01/2025",
+      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 10/01/2025"
+    },
+    "img": {
+      "src": "https://media.istockphoto.com/id/2170987813/photo/shiny-silver-2025-numbers-surrounded-by-illuminated-star-shaped-lights-on-a-reflective.jpg?s=1024x1024&w=is&k=20&c=ZctTu1xCzu5-KKDhDZ9UkWzHCw3bwrQ-Wofrrv6IWrQ=",
+      "style": "width:400px"
+    }
+  },
+  "promoSection": [
+    {
+      "type": "separator",
+      "title": {
+        "en": "🌟 Promo",
+        "vi": "🌟 Khuyến mãi"
+      }
+    }
+  ]
+}
